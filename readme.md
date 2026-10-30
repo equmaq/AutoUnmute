@@ -5,7 +5,7 @@ A userscript that automatically unmutes HTML5 videos and raises their volume to 
 ## Installation
 
 1. Install a userscript manager such as [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/), or another compatible manager.
-2. Open the scripts [GreasyFork page]([url](https://greasyfork.org/en/scripts/568163-universal-video-auto-unmute)) and click the install button.
+2. Open the scripts [GreasyFork page](https://greasyfork.org/en/scripts/568163-universal-video-auto-unmute) and click the install button.
 3. Confirm the installation in your userscript manager.
 
 The script matches all websites, but it is disabled by default on every site.
